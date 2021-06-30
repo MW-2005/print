@@ -4,13 +4,15 @@ Date: <date here>
 Please answer all questions. Consider these notes.
 
 1) What is the color of functions in your IDE?
-
+dark
 
 2) What is the color of strings in your IDE?
-
+whight
 
 3) What is the color of comments in your IDE?
+green
 
+#did not get any further
 
 4) What are the names of the values inside the () of a function, like print()?
 
